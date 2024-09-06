@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Iryna-Vyshniak.github.io/Workshop",
+  "homepage": "https://rprp123.github.io/Pro/",
   "scripts": {
     "start": "parcel src/*.html -p 1122 --open",
     "build": "parcel build src/*.html --public-url /Workshop/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://rprp123.github.io/Pro/"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
